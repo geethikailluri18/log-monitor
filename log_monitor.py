@@ -1,8 +1,4 @@
 #!/usr/bin/env python3
-"""
-Simple Log Monitor - Tracks job durations and reports warnings/errors
-"""
-
 import csv
 from datetime import datetime
 
